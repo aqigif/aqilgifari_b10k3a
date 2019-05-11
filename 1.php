@@ -38,3 +38,7 @@ $biodata_tojson = [
 $data = json_encode($biodata_tojson);
 echo $data;
 ?>
+
+
+//telah diuji pada https://www.onlinegdb.com/
+//Aqil Gifari_b10k3a
