@@ -12,9 +12,7 @@ Jawaban Bootcamp 10
 
 **Kegunaan JSON pada REST API**
 
-*JSON(Javascript Object Notation)*
-standar file format yang menggunakan tulisan yang dapat dipahami manusia dan mesin untuk pertukaran data. Didalamnya berisi pasangan antar key dan value.
+*JSON(Javascript Object Notation)* adalah standar file format yang menggunakan tulisan yang dapat dipahami manusia dan mesin untuk pertukaran data. Didalamnya berisi pasangan antar key dan value.
 
-*Kegunaan*
-Mempermudah interaksi antar aplikasi, sehingga pengunaannya sangat cepat.
+*Kegunaannya* adalah Mempermudah interaksi antar aplikasi, sehingga pengunaannya sangat cepat.
 
