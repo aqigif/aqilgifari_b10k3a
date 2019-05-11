@@ -37,8 +37,7 @@ $biodata_tojson = [
 //Return value ke format JSON
 $data = json_encode($biodata_tojson);
 echo $data;
-?>
 
 
-//telah diuji pada https://www.onlinegdb.com/
-//Aqil Gifari_b10k3a
+//telah diuji di https://www.onlinegdb.com/
+// 1.php by aqil gifari _ b10k3a
