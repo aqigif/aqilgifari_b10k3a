@@ -1,7 +1,7 @@
 # AqilGifari_b10k3a
 Jawaban Bootcamp 10
 
-# 1. Soal no.1
+# apa itu REST API dan kegunaan JSON pada REST API??
 **REST API**
 
 *API (Application Programming Interface)* adalah  antarmuka yang berupa kumpulan fungsi yang dapat dipanggil atau dijalankan program lain.Jadi, API itu digunakan untuk memanggil sebuah fungsi dari aplikasi lain tanpa peduli device kita, OS kita, platform kita dan siapapun yang memanggilnya itu.
