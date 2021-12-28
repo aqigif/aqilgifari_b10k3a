@@ -1,5 +1,4 @@
 # AqilGifari_b10k3a
-Jawaban Bootcamp 10
 
 # apa itu REST API dan kegunaan JSON pada REST API??
 **REST API**
